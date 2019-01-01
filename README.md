@@ -9,4 +9,5 @@ http://norman3.github.io/prml/docs/chapter05/3.html
 *Need to know*
 - Negative log-likelihood
 https://ratsgo.github.io/deep%20learning/2017/09/24/loss/
-
+- BK-Tree(Burkhard-Keller Tree)
+http://tartars.tistory.com/23
