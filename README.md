@@ -6,3 +6,7 @@ https://medium.com/@mldevhong/%EB%85%BC%EB%AC%B8-%EB%B2%88%EC%97%AD-rcnn-an-end-
 - Must Read
 http://norman3.github.io/prml/docs/chapter05/3.html
 
+*Need to know*
+- Negative log-likelihood
+https://ratsgo.github.io/deep%20learning/2017/09/24/loss/
+
